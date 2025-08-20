@@ -4,3 +4,7 @@
     height: 960px;
     flex-wrap:wrap;
 }
+
+.coloured {
+    background-color: black;
+}
